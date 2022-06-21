@@ -1,0 +1,593 @@
+MongoDB shell version v3.6.3
+connecting to: mongodb://127.0.0.1:27017/nbd
+MongoDB server version: 3.6.3
+[
+	{
+		"_id" : "Programmer Analyst IV"
+	},
+	{
+		"_id" : "Biostatistician I"
+	},
+	{
+		"_id" : "Account Representative IV"
+	},
+	{
+		"_id" : "Software Test Engineer II"
+	},
+	{
+		"_id" : "Computer Systems Analyst IV"
+	},
+	{
+		"_id" : "Software Test Engineer III"
+	},
+	{
+		"_id" : "Health Coach IV"
+	},
+	{
+		"_id" : "Office Assistant III"
+	},
+	{
+		"_id" : "Systems Administrator III"
+	},
+	{
+		"_id" : "Media Manager IV"
+	},
+	{
+		"_id" : "Health Coach II"
+	},
+	{
+		"_id" : "Accounting Assistant IV"
+	},
+	{
+		"_id" : "Programmer Analyst II"
+	},
+	{
+		"_id" : "Web Designer III"
+	},
+	{
+		"_id" : "Budget/Accounting Analyst III"
+	},
+	{
+		"_id" : "Web Designer I"
+	},
+	{
+		"_id" : "Computer Systems Analyst II"
+	},
+	{
+		"_id" : "Accountant IV"
+	},
+	{
+		"_id" : "Software Engineer III"
+	},
+	{
+		"_id" : "Structural Analysis Engineer"
+	},
+	{
+		"_id" : "Administrative Assistant IV"
+	},
+	{
+		"_id" : "Web Designer IV"
+	},
+	{
+		"_id" : "Director of Sales"
+	},
+	{
+		"_id" : "Human Resources Assistant II"
+	},
+	{
+		"_id" : "Paralegal"
+	},
+	{
+		"_id" : "Systems Administrator I"
+	},
+	{
+		"_id" : "Software Engineer IV"
+	},
+	{
+		"_id" : "Safety Technician II"
+	},
+	{
+		"_id" : "Geologist II"
+	},
+	{
+		"_id" : "Staff Accountant III"
+	},
+	{
+		"_id" : "Database Administrator IV"
+	},
+	{
+		"_id" : "Developer II"
+	},
+	{
+		"_id" : "Administrative Assistant III"
+	},
+	{
+		"_id" : "Engineer II"
+	},
+	{
+		"_id" : "Systems Administrator IV"
+	},
+	{
+		"_id" : "Research Assistant II"
+	},
+	{
+		"_id" : "Accounting Assistant II"
+	},
+	{
+		"_id" : "Quality Control Specialist"
+	},
+	{
+		"_id" : "Programmer Analyst III"
+	},
+	{
+		"_id" : "Nurse Practicioner"
+	},
+	{
+		"_id" : "Safety Technician I"
+	},
+	{
+		"_id" : "Engineer III"
+	},
+	{
+		"_id" : "Analog Circuit Design manager"
+	},
+	{
+		"_id" : "Accountant II"
+	},
+	{
+		"_id" : "Research Assistant III"
+	},
+	{
+		"_id" : "Cost Accountant"
+	},
+	{
+		"_id" : "Food Chemist"
+	},
+	{
+		"_id" : "Research Nurse"
+	},
+	{
+		"_id" : "Accountant I"
+	},
+	{
+		"_id" : "Assistant Professor"
+	},
+	{
+		"_id" : "Research Assistant IV"
+	},
+	{
+		"_id" : "Engineer I"
+	},
+	{
+		"_id" : "Marketing Manager"
+	},
+	{
+		"_id" : "Nuclear Power Engineer"
+	},
+	{
+		"_id" : "VP Marketing"
+	},
+	{
+		"_id" : "Assistant Media Planner"
+	},
+	{
+		"_id" : "Nurse"
+	},
+	{
+		"_id" : "Programmer III"
+	},
+	{
+		"_id" : "Financial Analyst"
+	},
+	{
+		"_id" : "Database Administrator II"
+	},
+	{
+		"_id" : "Programmer I"
+	},
+	{
+		"_id" : "Senior Editor"
+	},
+	{
+		"_id" : "Health Coach III"
+	},
+	{
+		"_id" : "VP Sales"
+	},
+	{
+		"_id" : "Engineer IV"
+	},
+	{
+		"_id" : "Safety Technician III"
+	},
+	{
+		"_id" : "Information Systems Manager"
+	},
+	{
+		"_id" : "Administrative Assistant II"
+	},
+	{
+		"_id" : "Account Representative I"
+	},
+	{
+		"_id" : "Web Developer I"
+	},
+	{
+		"_id" : "GIS Technical Architect"
+	},
+	{
+		"_id" : "Account Representative II"
+	},
+	{
+		"_id" : "Biostatistician II"
+	},
+	{
+		"_id" : "Office Assistant IV"
+	},
+	{
+		"_id" : "Technical Writer"
+	},
+	{
+		"_id" : "Automation Specialist II"
+	},
+	{
+		"_id" : "Chief Design Engineer"
+	},
+	{
+		"_id" : "Safety Technician IV"
+	},
+	{
+		"_id" : "Structural Engineer"
+	},
+	{
+		"_id" : "Sales Representative"
+	},
+	{
+		"_id" : "Account Coordinator"
+	},
+	{
+		"_id" : "Community Outreach Specialist"
+	},
+	{
+		"_id" : "Software Test Engineer IV"
+	},
+	{
+		"_id" : "Budget/Accounting Analyst IV"
+	},
+	{
+		"_id" : "Geologist III"
+	},
+	{
+		"_id" : "Human Resources Assistant IV"
+	},
+	{
+		"_id" : "Developer I"
+	},
+	{
+		"_id" : "Health Coach I"
+	},
+	{
+		"_id" : "Analyst Programmer"
+	},
+	{
+		"_id" : "Account Executive"
+	},
+	{
+		"_id" : "Software Engineer I"
+	},
+	{
+		"_id" : "Environmental Tech"
+	},
+	{
+		"_id" : "Geologist I"
+	},
+	{
+		"_id" : "Systems Administrator II"
+	},
+	{
+		"_id" : "Recruiter"
+	},
+	{
+		"_id" : "VP Quality Control"
+	},
+	{
+		"_id" : "Design Engineer"
+	},
+	{
+		"_id" : "Physical Therapy Assistant"
+	},
+	{
+		"_id" : "Media Manager II"
+	},
+	{
+		"_id" : "Computer Systems Analyst I"
+	},
+	{
+		"_id" : "Help Desk Technician"
+	},
+	{
+		"_id" : "Desktop Support Technician"
+	},
+	{
+		"_id" : "Professor"
+	},
+	{
+		"_id" : "Human Resources Assistant I"
+	},
+	{
+		"_id" : "Geologist IV"
+	},
+	{
+		"_id" : "Programmer Analyst I"
+	},
+	{
+		"_id" : "Database Administrator III"
+	},
+	{
+		"_id" : "Marketing Assistant"
+	},
+	{
+		"_id" : "Operator"
+	},
+	{
+		"_id" : "Software Engineer II"
+	},
+	{
+		"_id" : "Teacher"
+	},
+	{
+		"_id" : "Editor"
+	},
+	{
+		"_id" : "Senior Developer"
+	},
+	{
+		"_id" : "Mechanical Systems Engineer"
+	},
+	{
+		"_id" : "Pharmacist"
+	},
+	{
+		"_id" : "Software Developer"
+	},
+	{
+		"_id" : "Payment Adjustment Coordinator"
+	},
+	{
+		"_id" : "Business Systems Development Analyst"
+	},
+	{
+		"_id" : "Graphic Designer"
+	},
+	{
+		"_id" : "Research Associate"
+	},
+	{
+		"_id" : "Web Developer IV"
+	},
+	{
+		"_id" : "Executive Secretary"
+	},
+	{
+		"_id" : "Programmer II"
+	},
+	{
+		"_id" : "Tax Accountant"
+	},
+	{
+		"_id" : "Accounting Assistant III"
+	},
+	{
+		"_id" : "Librarian"
+	},
+	{
+		"_id" : "Web Developer III"
+	},
+	{
+		"_id" : "Recruiting Manager"
+	},
+	{
+		"_id" : "Budget/Accounting Analyst II"
+	},
+	{
+		"_id" : "Statistician II"
+	},
+	{
+		"_id" : "Speech Pathologist"
+	},
+	{
+		"_id" : "Accountant III"
+	},
+	{
+		"_id" : "Statistician IV"
+	},
+	{
+		"_id" : "Staff Scientist"
+	},
+	{
+		"_id" : "Developer III"
+	},
+	{
+		"_id" : "Internal Auditor"
+	},
+	{
+		"_id" : "Project Manager"
+	},
+	{
+		"_id" : "Social Worker"
+	},
+	{
+		"_id" : "Administrative Assistant I"
+	},
+	{
+		"_id" : "Geological Engineer"
+	},
+	{
+		"_id" : "Programmer IV"
+	},
+	{
+		"_id" : "Administrative Officer"
+	},
+	{
+		"_id" : "Software Test Engineer I"
+	},
+	{
+		"_id" : "Registered Nurse"
+	},
+	{
+		"_id" : "Media Manager I"
+	},
+	{
+		"_id" : "Legal Assistant"
+	},
+	{
+		"_id" : "Staff Accountant IV"
+	},
+	{
+		"_id" : "Office Assistant II"
+	},
+	{
+		"_id" : "Compensation Analyst"
+	},
+	{
+		"_id" : "Senior Quality Engineer"
+	},
+	{
+		"_id" : "Research Assistant I"
+	},
+	{
+		"_id" : "Product Engineer"
+	},
+	{
+		"_id" : "Financial Advisor"
+	},
+	{
+		"_id" : "Associate Professor"
+	},
+	{
+		"_id" : "Account Representative III"
+	},
+	{
+		"_id" : "Computer Systems Analyst III"
+	},
+	{
+		"_id" : "Human Resources Manager"
+	},
+	{
+		"_id" : "Environmental Specialist"
+	},
+	{
+		"_id" : "Senior Sales Associate"
+	},
+	{
+		"_id" : "Media Manager III"
+	},
+	{
+		"_id" : "Data Coordiator"
+	},
+	{
+		"_id" : "Office Assistant I"
+	},
+	{
+		"_id" : "Automation Specialist I"
+	},
+	{
+		"_id" : "Database Administrator I"
+	},
+	{
+		"_id" : "Biostatistician III"
+	},
+	{
+		"_id" : "Actuary"
+	},
+	{
+		"_id" : "Quality Engineer"
+	},
+	{
+		"_id" : "Statistician I"
+	},
+	{
+		"_id" : "VP Accounting"
+	},
+	{
+		"_id" : "Statistician III"
+	},
+	{
+		"_id" : "Sales Associate"
+	},
+	{
+		"_id" : "Web Designer II"
+	},
+	{
+		"_id" : "Automation Specialist III"
+	},
+	{
+		"_id" : "Senior Financial Analyst"
+	},
+	{
+		"_id" : "Clinical Specialist"
+	},
+	{
+		"_id" : "Budget/Accounting Analyst I"
+	},
+	{
+		"_id" : "Electrical Engineer"
+	},
+	{
+		"_id" : "Civil Engineer"
+	},
+	{
+		"_id" : "Staff Accountant II"
+	},
+	{
+		"_id" : "Junior Executive"
+	},
+	{
+		"_id" : "Senior Cost Accountant"
+	},
+	{
+		"_id" : "Web Developer II"
+	},
+	{
+		"_id" : "Help Desk Operator"
+	},
+	{
+		"_id" : "Developer IV"
+	},
+	{
+		"_id" : "Accounting Assistant I"
+	},
+	{
+		"_id" : "Biostatistician IV"
+	},
+	{
+		"_id" : "Chemical Engineer"
+	},
+	{
+		"_id" : "VP Product Management"
+	},
+	{
+		"_id" : "Human Resources Assistant III"
+	},
+	{
+		"_id" : "Assistant Manager"
+	},
+	{
+		"_id" : "Occupational Therapist"
+	},
+	{
+		"_id" : "General Manager"
+	},
+	{
+		"_id" : "Dental Hygienist"
+	},
+	{
+		"_id" : "Staff Accountant I"
+	},
+	{
+		"_id" : "Automation Specialist IV"
+	},
+	{
+		"_id" : "Software Consultant"
+	}
+]
